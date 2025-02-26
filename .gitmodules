@@ -1,0 +1,6 @@
+[submodule "v2raya"]
+	path = v2raya
+	url = https://github.com/v2rayA/v2raya-openwrt.git
+[submodule "luci-app-unblockneteasemusic"]
+	path = luci-app-unblockneteasemusic
+	url = https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic.git
